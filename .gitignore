@@ -20,6 +20,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Configuration locale Claude Code
+.claude/settings.local.json
+
 # Fichiers temporaires
 *.log
 *.tmp
