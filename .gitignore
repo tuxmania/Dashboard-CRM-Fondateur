@@ -1,0 +1,26 @@
+# Fichiers d'environnement (secrets)
+.env
+.env.local
+.env.*.local
+
+# Dépendances (si vous utilisez Node.js/Python/etc)
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers IDE (sauf .claude/)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers temporaires
+*.log
+*.tmp
+.cache/
