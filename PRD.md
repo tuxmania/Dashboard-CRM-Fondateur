@@ -61,7 +61,7 @@ L'application ingère un fichier CSV (crm_prospects_demo.csv) avec les colonnes 
 *Objectif: Vue macro immédiate. Pas de tableau de données*
 
 1. **Upload CSV:** Widget d'upload fichier
-2. **Affichage des KPIs Macrp: **
+2. **Affichage des KPIs Macro: **
 * **Volume du pipeline** (Nombre de deals actifs)
 * **CA Total pipeline Brut** (Somme totale sans pondération)
 * **Panier moyen** (Indicateur de valeur)
